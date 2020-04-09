@@ -1,9 +1,10 @@
+<div align="center">
 <h1>
-<img src="https://raw.githubusercontent.com/kuerzer/brand/master/logo_title/title-with-scissors.png" height="100" alt="kuerzer">
+<img src="https://raw.githubusercontent.com/kuerzer/brand/master/logo_title/title-with-scissors.png" width="300" alt="kuerzer">
 </h1>
 
-[![Latest release](https://badgen.net/github/release/kuerzer/kuerzer/stable)](https://github.com/kuerzer/kuerzer/releases)
-[![Travis CI build](https://badgen.net/travis/kuerzer/kuerzer?label=ci)](https://travis-ci.com/github/kuerzer/kuerzer)
+<a href="https://github.com/kuerzer/kuerzer/releases"><img src="https://badgen.net/github/release/kuerzer/kuerzer/stable" alt="Latest release"></a>
+</div>
 
 **kuerzer** (`/kʏʁtsɐ/`; German *kürzer* "shorter") is a self-hosted solution
 for URL shortening built using open source and free technology.
